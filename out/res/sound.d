@@ -1,0 +1,32 @@
+out/res/sound.o: res/sound.res \
+C:/GENDK/HAMOOPIG/res/sfx/music_char_select.vgm \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/102b.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/720.wav \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/700.wav \
+C:/GENDK/HAMOOPIG/res/sfx/common/snd_hit_3.wav \
+C:/GENDK/HAMOOPIG/res/sfx/round_init.wav \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/101b.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/710.wav \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/710.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/750.wav \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/102a.wav \
+C:/GENDK/HAMOOPIG/res/sfx/music_stage1.vgm \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/101b.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/102a.wav \
+C:/GENDK/HAMOOPIG/res/sfx/music_title.vgm \
+C:/GENDK/HAMOOPIG/res/sfx/snd_future_now.wav \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/101a.wav \
+C:/GENDK/HAMOOPIG/res/sfx/common/snd_hit_1.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/102b.wav \
+C:/GENDK/HAMOOPIG/res/sfx/common/606.wav \
+C:/GENDK/HAMOOPIG/res/sfx/common/snd_hit_2.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/101a.wav \
+C:/GENDK/HAMOOPIG/res/sfx/snd_cursor.wav \
+C:/GENDK/HAMOOPIG/res/sfx/common/110.wav \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/618.wav \
+C:/GENDK/HAMOOPIG/res/sfx/common/300.wav \
+C:/GENDK/HAMOOPIG/res/sfx/haohmaru/720.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/700.wav \
+C:/GENDK/HAMOOPIG/res/sfx/gillius/730.wav \
+C:/GENDK/HAMOOPIG/res/sfx/snd_confirm.wav \
+C:/GENDK/HAMOOPIG/res/sfx/common/551.wav
